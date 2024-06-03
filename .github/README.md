@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <img src="https://telegra.ph/file/2595e5dc7aa9295efe245.jpg">
+  <img src="https://telegra.ph/file/5a37f9c0284b63f0abcf2.jpg">
 </p>
 
 <h3 align="center">
@@ -25,5 +25,5 @@
 </p>
 
 <p align="center">
-<a href="https://telegram.me/BTSChinna"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/ASTRA_SQL"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
