@@ -32,7 +32,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY",HRKU-4cf08f3a-af0c-41a4-bc99-f5ad00f478
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/dattudd/Anonxmusic-",
+    "https://github.com/NR1104/MoonXtns.git",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv(
